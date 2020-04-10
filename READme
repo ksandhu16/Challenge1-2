@@ -1,0 +1,15 @@
+I have really enjoyed working with both the Challenges!
+
+I have mainly coded both the Challenges in C#. Since I had extra time I coded Challenge 1 in java as well.
+
+I have used visual studio to execute both java and C# code and there is no compile error.
+
+I have calculated spread_to_benchmark for C1 is C1.yield - G1.yield using the formula give and it prints the same output.
+
+for Challenge2 I have calculated spread_to_curve using linear interpolation.
+
+C1.spread_to_curve = A - B
+C2.spread_to_curve = X - Y
+
+I have tested the code and added breakpoints where I felt the code was giving errors, and finally concluded to the final code.
+

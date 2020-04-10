@@ -12,4 +12,3 @@ C1.spread_to_curve = A - B
 C2.spread_to_curve = X - Y
 
 I have tested the code and added breakpoints where I felt the code was giving errors, and finally concluded to the final code.
-
